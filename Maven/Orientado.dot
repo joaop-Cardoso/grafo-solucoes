@@ -1,0 +1,12 @@
+digraph Orientado{
+a->b;
+c->b;
+b->e;
+b->d;
+d->c;
+d->f;
+e->d;
+f->a;
+f->b;
+c->f;
+}
