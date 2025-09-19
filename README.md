@@ -8,3 +8,9 @@ Foi meu primeiro projeto em que modelei a solução antes de codar, quebrando o 
 Foi um grande desafio na época e me fez evoluir muito em **lógica, modelagem e criatividade**.
 
 ---
+
+## ✨ Funcionalidades
+- Implementação de **estrutura de grafos personalizada**
+- Algoritmos clássicos de grafos (buscas, caminhos, etc.)
+- Outros algoritmos desenvolvidos para **explorar a usabilidade em grafos**
+- Aplicação **100% em terminal**
