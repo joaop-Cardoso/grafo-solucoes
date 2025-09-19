@@ -28,7 +28,7 @@ Foi um grande desafio na época e me fez evoluir muito em **lógica, modelagem e
 
 ---
 
-##🌱 Aprendizados
+## 🌱 Aprendizados
 
 - Modelagem de problemas complexos
 - Divisão de problemas grandes em partes menores
