@@ -23,16 +23,16 @@ Foi um grande desafio na época e me fez evoluir muito em **lógica, modelagem e
 
 ## 💭 Observações
 
--O código pode parecer um pouco complexo devido à falta de clean code e separação de camadas/domínio,mas isso faz parte da história deste projeto e do aprendizado envolvido.
--As soluções e algoritmos (excluindo o algoritmo de Malgrange e Dijkstra para menor caminho) foram fruto de criatividade própria e muita tentativa e erro — sem recorrer a muitos atalhos da linguagem.
+- O código pode parecer um pouco complexo devido à falta de clean code e separação de camadas/domínio,mas isso faz parte da história deste projeto e do aprendizado envolvido.
+- As soluções e algoritmos (excluindo o algoritmo de Malgrange e Dijkstra para menor caminho) foram fruto de criatividade própria e muita tentativa e erro — sem recorrer a muitos atalhos da linguagem.
 
 ---
 
 ##🌱 Aprendizados
 
--Modelagem de problemas complexos
--Divisão de problemas grandes em partes menores
--Criação de estruturas de dados personalizadas
--Implementação de algoritmos em grafos
+- Modelagem de problemas complexos
+- Divisão de problemas grandes em partes menores
+- Criação de estruturas de dados personalizadas
+- Implementação de algoritmos em grafos
 
 - Este README foi escrito com a ajuda do **ChatGPT**, para organizar melhor as ideias e deixar a apresentação mais clara.
