@@ -14,3 +14,9 @@ Foi um grande desafio na época e me fez evoluir muito em **lógica, modelagem e
 - Algoritmos clássicos de grafos (buscas, caminhos, etc.)
 - Outros algoritmos desenvolvidos para **explorar a usabilidade em grafos**
 - Aplicação **100% em terminal**
+
+---
+
+## 📅 Histórico
+- Projeto desenvolvido em **2023**  
+- Só foi colocado aqui no GitHub posteriormente, sem os commits de desenvolvimento, pois na época eu ainda não sabia utilizar a plataforma
